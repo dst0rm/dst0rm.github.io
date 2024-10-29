@@ -254,7 +254,7 @@
 			<cube url="panos/11.tiles/pano_%s.jpg" />
 		</image>
 
-		<hotspot name="spot4" style="skin_hotspotstyle" ath="67.533" atv="21.413" linkedscene="scene_12" linkedscene_hoffset="83.92" use3dtransition="true" />
+		<hotspot name="spot4" style="skin_hotspotstyle" ath="67.503" atv="21.401" linkedscene="scene_7" linkedscene_hoffset="-33.99" use3dtransition="true" />
 
 	</scene>
 
@@ -269,8 +269,6 @@
 		<image>
 			<cube url="panos/12.tiles/pano_%s.jpg" />
 		</image>
-
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-28.548" atv="22.531" linkedscene="scene_11" linkedscene_hoffset="276.08" use3dtransition="true" />
 
 	</scene>
 
